@@ -1,0 +1,72 @@
+body{
+    background: url(https://tse4.mm.bing.net/th?id=OIP.MMOo3uCIhA0jchpT7wP9SgAAAA&amp;pid=Api&amp;P=0);
+    
+}
+h3{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+b{
+    font-family: cursive;
+}
+
+#general{
+    margin: auto;
+    width: 900px;
+    height: 900px;
+    background-color: white;
+}
+
+#datos_academicos{
+    width: 550px;
+    height: 833px;
+    background-color: white;
+    float: right;
+    margin-right: 20px;
+}
+
+#datos_perfil{
+    width: 289px;
+    height: 211px;
+    padding: 3px;
+    background-color: darkslategrey;
+    
+}
+
+#datos_personales{
+    width: 289px;
+    height: 614px;
+    padding: 3px;
+    background-color: darkslategrey;
+    margin-top: -9px;
+}
+
+#titulo{
+    text-align: center;
+}
+
+#foto_de_perfil{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 62px;
+}
+
+.parrafo_blanco{
+    color: white;
+}
+
+.separadores_personales{
+    width: 200px;
+}
+
+.separadores_academicos{
+    width: 350px;
+}
+
+.icono_contacto{
+    width: 30px; 
+    height: 30px;
+}
